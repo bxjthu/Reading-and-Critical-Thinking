@@ -7,7 +7,9 @@ class: center, middle
 ** Tsinghua University **
 
 ** https://bxjthu.github.io/Reading-and-Critical-Thinking**
+
 ---
+
 ### Why Read the Classics?
 
 **Questions:**
