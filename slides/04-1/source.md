@@ -8,4 +8,9 @@ class: center, middle
 
 ** https://bxjthu.github.io/Reading-and-Critical-Thinking**
 ---
-class: center, middle
+### Why Read the Classics?
+
+**Questions:**
+
+1. What is the logical order of these 14 definitions?
+
